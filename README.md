@@ -8,6 +8,5 @@ A basic to-do app built using HTML, CSS, and JavaScript.
 - Mark tasks as completed
 - Remove tasks from the list
 
-  [TO-DO](https://github.com/yashwanth2000/to-do)
 
   
